@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa7fb35e-3992-4f92-a93b-309738efc2e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZG3p4iQAVO6K5rCgS0djX6m6YP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ejercicio3Henry.py" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Ejercicio3Henry" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="calculadora" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicio3Henry.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Ejercicio3Henry" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa7fb35e-3992-4f92-a93b-309738efc2e3" name="Default Changelist" comment="" />
+      <created>1584451782553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584451782553</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584643001119">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1584643001119" />
+    <state x="388" y="201" width="579" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584651386670">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="388" y="201" width="579" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1584651386670" />
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584643000136">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1584643000136" />
+    <state width="1366" height="175" key="GridCell.Tab.0.bottom" timestamp="1584653750774">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1366" height="175" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1584653750774" />
+    <state width="1366" height="175" key="GridCell.Tab.0.center" timestamp="1584653750773">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1366" height="175" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1584653750773" />
+    <state width="1366" height="175" key="GridCell.Tab.0.left" timestamp="1584653750772">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1366" height="175" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1584653750772" />
+    <state width="1366" height="175" key="GridCell.Tab.0.right" timestamp="1584653750774">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1366" height="175" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1584653750774" />
+    <state width="1366" height="228" key="GridCell.Tab.1.bottom" timestamp="1584586758041">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1366" height="228" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1584586758041" />
+    <state width="1366" height="228" key="GridCell.Tab.1.center" timestamp="1584586758040">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1366" height="228" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1584586758040" />
+    <state width="1366" height="228" key="GridCell.Tab.1.left" timestamp="1584586758039">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1366" height="228" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1584586758039" />
+    <state width="1366" height="228" key="GridCell.Tab.1.right" timestamp="1584586758041">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1366" height="228" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1584586758041" />
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1584638363204">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1584638363204" />
+    <state x="462" y="86" width="432" height="620" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584642678727">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="462" y="86" width="432" height="620" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1584642678727" />
+  </component>
+</project>
